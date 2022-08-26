@@ -4,6 +4,7 @@ CREATE DATABASE Testing_System_Assignment_1 ;
 USE Testing_System_Assignment_1 ;
 
 -- Tạo Table Deparment
+-- update để test Gỉt
 DROP TABLE IF EXISTS `Deparment`;
 CREATE TABLE  `Deparment` (
 	DepartmentID TINYINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
